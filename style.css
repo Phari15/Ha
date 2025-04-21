@@ -24,7 +24,7 @@ body {
 }
 
 .main .box {
-    /* background-image: url(images/wallpaper.jpg); */
+    background-image: url(images/wallpaper.jpg);
     height: 644px;
     width: 100%;
     opacity: 0.65;
